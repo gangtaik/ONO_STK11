@@ -1,5 +1,6 @@
 #DATE: 2024.06.29 
-#PRJ Manger : Pf. JUSUNG SIM #WRITE BY AMERICANO LOVER (나겠지 ㅋㅋ) 
+#PRJ Manger : Pf. JUSUNG SIM 
+#WRITE BY AMERICANO LOVER (나겠지 ㅋㅋ) 
 #Project Target: Find STK11 gene mutation from ONO Project WES dataset (N=95, EGFR MT)
 
 #FILE LIST 
